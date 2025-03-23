@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ankit Gautam"
+title                    : "Ankit Kumar Gautam"
 title_separator          : "-"
-name                     : &name "Ankit Gautam"
+name                     : &name "Ankit Kumar Gautam"
 description              : &description "Ph.D. student at UIUC"
 url                      : https://gautamankitkumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ankit Gautam"
+  name             : "Ankit Kumar Gautam"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student at UIUC"
   location         : "Champaign, IL"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XGt8R-MAAAAJ&hl=en"
-  email            :
+  email            : "gautam6@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
