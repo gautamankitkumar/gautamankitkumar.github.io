@@ -1,4 +1,8 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2020-01-01	Inferring layer-by-layer composition in Au-Ag nanoparticles using a combination of X-ray Photoelectron Spectroscopy and Monte Carlo simulations	Surface Science	hi	arif-2020-inferring	arif-2020-inferring	https://doi.org/10.1016/j.susc.2019.121503
-2023-12-23	Defect Engineering of WO3 by Rapid Flame Reduction for Efficient Photoelectrochemical Conversion of Methane into Liquid Oxygenates	Nano Letters	hi	kun-2023-wo3-ch4-oxidation	kun-2023-wo3-ch4-oxidation	https://doi.org/10.1021/acs.nanolett.3c03131
-2024-05-15	Implication of surface oxidation of nanoscale molybdenum carbide on electrocatalytic activity	Journal of Materials Chemistry A	hi	yu-2024-beta-mo2c	yu-2024-beta-mo2c	https://doi.org/10.1039/D4TA01746C
+2020-01-01	Inferring layer-by-layer composition in Au-Ag nanoparticles using a combination of X-ray Photoelectron Spectroscopy and Monte Carlo simulations	Surface Science	hi	Arif-2020-inferring	Arif-2020-inferring	https://doi.org/10.1016/j.susc.2019.121503
+2023-12-23	Defect Engineering of WO3 by Rapid Flame Reduction for Efficient Photoelectrochemical Conversion of Methane into Liquid Oxygenates	Nano Letters	hi	Woo-2023-wo3-ch4-oxidation	Woo-2023-wo3-ch4-oxidation	https://doi.org/10.1021/acs.nanolett.3c03131
+2024-05-15	Implication of surface oxidation of nanoscale molybdenum carbide on electrocatalytic activity	Journal of Materials Chemistry A	hi	Yu-2024-beta-mo2c	Yu-2024-beta-mo2c	https://doi.org/10.1039/D4TA01746C
+2025-04-0x	Role of surface oxygen in α-MoC catalyst stability and activity under electrooxidation conditions	in revision	hi	Gautam-2025-amoc-faeo	Gautam-2025-amoc-faeo	https://doi.org/10.26434/chemrxiv-2024-xwh17
+2025-05-0x	Planar chiral metallopolymers for electrochemically-mediated enantioselective separations	submitted	hi	Jeon-2025-planar-selectivity	Jeon-2025-planar-selectivity	 	
+2025-06-0x	Elucidating the electronic effects of substituent on N-Heterocyclic carbene stability on gold nanoclusters	in preparation	hi	Gautam-2025-nhc-stability	Gautam-2025-nhc-stability	
+2025-07-0x	Developing minimally-empirical tight-binding model for transition metals to accelerate catalysis and non-covalent interaction studies	in preparation	hi	Gautam-2025-ntb-la-h2o	Gautam-2025-ntb-la-h2o	 	
