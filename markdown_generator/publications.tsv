@@ -1,2 +1,3 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2020-01-01	Inferring layer-by-layer composition in Au-Ag nanoparticles using a combination of X-ray Photoelectron Spectroscopy and Monte Carlo simulations	Surface Science	My first ever contribution to a research acitivity 	arif-2020-inferring	arif-2020-inferring	https://doi.org/10.1016/j.susc.2019.121503
+pub_date    title   venue   excerpt citation    url_slug    paper_url
+2020-01-01  Inferring layer-by-layer composition in Au-Ag nanoparticles using a combination of X-ray Photoelectron Spectroscopy and Monte Carlo simulations Surface Science     arif-2020-inferring arif-2020-inferring https://doi.org/10.1016/j.susc.2019.121503
+2023-12-27  Defect Engineering of WO3 by Rapid Flame Reduction for Efficient Photoelectrochemical Conversion of Methane into Liquid Oxygenates  Nano Letters        kun-2023-defect-engineering kun-2023-defect-engineering https://doi.org/10.1021/acs.nanolett.3c03131

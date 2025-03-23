@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hello There
-I am Ankit, a graduate student in Chemical and Biomolecular Engineering department at University of Illinois at Urbana-Champaign. My project involves working with techniques such as multiscale modeling methods such as Density-Functional Theory calculations, Molecular Dynamics and Monte Carlo simulations.
+Hello! I'm Ankit, a final-year graduate student at the University of Illinois Urbana-Champaign, passionate about leveraging computational tools to design advanced materials and molecules.
 
-I completed my master's from Carnegie Mellon University, Pittsburgh, PA and completed my bachelors from IIT Bombay, India.
-
-I am looking to collaborate in the field of computational catalysis towards design of sustainable catalyst materials towards renewable energy sources.
+My expertise lies in first-principles methods like Density-Functional Theory and *ab initio* thermodynamics. My goal is to make quantum-mechanical calculations more accessible and efficient for accelerating in-silico materials design.
