@@ -12,3 +12,4 @@ Hello! I'm Ankit, a final-year graduate student at the University of Illinois Ur
 
 My expertise lies in first-principles methods like Density-Functional Theory and *ab initio* thermodynamics. My goal is to make quantum-mechanical calculations more accessible and efficient for accelerating in-silico materials design.
 
+Check out my [portfolio](https://gautamankitkumar.github.io/portfolio/) page to see the range of projects I have been involved in.

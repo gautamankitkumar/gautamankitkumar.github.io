@@ -1,7 +1,7 @@
 ---
 title: "Physics motivated Force-field development"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ntb-la.png'>"
+excerpt: "To account for nonbonded interactions capturing Lanthanum solvation during its separations we are developing a minimally-empirical tight-binding theory<br/><img src='/images/Picture1.png'>"
 collection: portfolio
 ---
 
-To account for nonbonded interactions capturing Lanthanum (and Rare-earth elements separations) we are developing a minimally-empirical tight-binding theory
+Part of DMREF team: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323988
