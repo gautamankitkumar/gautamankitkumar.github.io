@@ -23,4 +23,4 @@ Check out my [portfolio](https://gautamankitkumar.github.io/portfolio/) page to 
   * May 2022 - Named on the list of teachers ranked as excellent. [Link](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf). Search for ``GAUTAM,A``
   * May 2020 - Selected as best group presentation for the course Process Systems Engineering
   * Jul 2018 - Awarded undergraduate research awards URA01 and URA02 for exceptional work
-  * Apr 2018 - Selected as best senior-year research project by a committee of external industry experts 
+  * Apr 2018 - Selected as best senior-year research project by a committee of external industry experts
