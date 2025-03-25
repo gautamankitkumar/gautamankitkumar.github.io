@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Downloadable document: [Resume](https://gautamankitkumar.github.io/files/AnkitKumarGautam_Resume.pdf)
+
 Education
 ======
-* Ph.D in Chemical Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, 2025 (expected)
+* Ph.D in Chemical Engineering, University of Illinois Urbana-Champaign, Urbana, IL, 2025 (expected)
 * M.S. in Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, 2020
 * B.Tech. in Chemical Engineering, IIT Bombay, India, 2018
 

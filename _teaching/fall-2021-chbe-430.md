@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant "
+title: "Teaching Assistant 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall-2021-chbe-430

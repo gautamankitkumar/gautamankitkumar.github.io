@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant "
+title: "Teaching Assistant 3"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/spring-2022-chbe-412.md

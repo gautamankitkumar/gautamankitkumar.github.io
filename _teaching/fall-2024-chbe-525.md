@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant "
+title: "Teaching Assistant 4"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/fall-2024-chbe-525.md
 venue: "Department of Chemical and Biomolecular Engineering, University of Illinois Urbana-Champaign"
 date: 2024-12-18
