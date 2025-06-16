@@ -26,11 +26,6 @@ Check out my [portfolio](https://gautamankitkumar.github.io/portfolio/) page to 
   * Apr 2018 - Selected as best senior-year research project by a committee of external industry experts
 
 
-<div>
 
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
-
-    <model-viewer alt="3D View of ChimeraX scene.glb file" src="scene.glb" style="width: 600px; height: 400px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="scene.png"></model-viewer>
-
-
-</div>
+<model-viewer alt="3D View of ChimeraX scene.glb file" src="/files/scene.glb" style="width: 600px; height: 400px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="/files/scene.png">
+</model-viewer>
