@@ -24,3 +24,13 @@ Check out my [portfolio](https://gautamankitkumar.github.io/portfolio/) page to 
   * May 2020 - Selected as best group presentation for the course Process Systems Engineering
   * Jul 2018 - Awarded undergraduate research awards URA01 and URA02 for exceptional work
   * Apr 2018 - Selected as best senior-year research project by a committee of external industry experts
+
+
+<div>
+
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.1.1/model-viewer.min.js"></script>
+
+    <model-viewer alt="3D View of ChimeraX scene.glb file" src="scene.glb" style="width: 600px; height: 400px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="scene.png"></model-viewer>
+
+
+</div>
