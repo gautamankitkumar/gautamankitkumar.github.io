@@ -27,5 +27,5 @@ Check out my [portfolio](https://gautamankitkumar.github.io/portfolio/) page to 
 
 
 
-<model-viewer alt="3D View of ChimeraX scene.glb file" src="/files/scene.glb" style="width: 600px; height: 400px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="/files/scene.png">
+<model-viewer alt="3D View of ChimeraX formic.glb file" src="/files/formic.glb" style="width: 600px; height: 400px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="/files/formic.png">
 </model-viewer>
