@@ -10,18 +10,14 @@ redirect_from:
   - /home.html
 ---
 
-Hello, I'm Ankit. I am a computational process engineer specializing in translating complex theoretical models into practical, experimental guidance. I have over 7 years of computational modeling research experience in heterogeneous catalysis and more than 5 peer-reviewed publications. Additionally, I have 1+ year in the pharmaceutical industry and +1 year with wet-lab research experience.
+My research sits at the intersection of modeling and experiments, where I use computational tools to interpret results and guide experimental directions. I have experience in applying a broad range of modeling techniques, from first-principles calculations to process simulations, to derive insights that inform materials and process design. During my PhD, I focused on using first-principles computational modeling to design and understand materials relevant to sustainable technologies. The following infographic tries to capture the most important features.
 
-I excel in interdisciplinary environments, collaborating across Chemistry, MatSE, and MechE, and am committed to knowledge sharing, having mentored 5+ students. I will be graduating in late 2025 or early 2026 and actively seeking industrial opportunities that apply my computational skills and background in a collaborative setting.
+<br/><img src='/files/AnkitKumarGautam_AIChE_Summary.png'>"
 
-Core competencies:
- - Density functional theory calculations
- - Reaction Mechanism elucidation
- - Thermodynamics and Kinetics
- - Machine Learning
+I am looking for industrial roles that leverage my expertise on connecting modeling to experiments, ideally starting late 2025 or early 2026.
 
 
-Check out this atomic-level interaction we found guiding the enantioselectivity.
+As a small exhibit of my work, check out this atomic-level interaction we found guiding the enantioselectivity.
 
 <model-viewer alt="3D View of ChimeraX chiral.glb file" src="/files/chiral.glb" style="width: 600px; height: 500px" shadow-intensity="1" camera-controls touch-action="pan-y" poster="/files/chiral.png">
 </model-viewer>

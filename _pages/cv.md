@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable document: [Resume](https://gautamankitkumar.github.io/files/AnkitKumarGautam_Resume.pdf)
+Downloadable document: [Resume](https://gautamankitkumar.github.io/files/AnkitKumarGautam_Resume_Catalysis.pdf)
 
 Education
 ======
