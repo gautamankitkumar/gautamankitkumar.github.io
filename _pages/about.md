@@ -10,9 +10,9 @@ redirect_from:
   - /home.html
 ---
 
-My research sits at the intersection of modeling and experiments, where I use computational tools to interpret results and guide experimental directions. I have experience in applying a broad range of modeling techniques, from first-principles calculations to process simulations, to derive insights that inform materials and process design. During my PhD, I focused on using first-principles computational modeling to design and understand materials relevant to sustainable technologies. The following infographic tries to capture the most important features.
+<div style="text-align: justify"> My research sits at the intersection of modeling and experiments, where I use computational tools to interpret results and guide experimental directions. I have experience in applying a broad range of modeling techniques, from first-principles calculations to process simulations, to derive insights that inform materials and process design. During my PhD, I focused on using first-principles computational modeling to design and understand materials relevant to sustainable technologies. The following infographic tries to capture the most important features. </div>
 
-<br/><img src='/files/AnkitKumarGautam_AIChE_Summary.png'>"
+<br/><img src='/files/AnkitKumarGautam_AIChE_Summary.png'>
 
 I am looking for industrial roles that leverage my expertise on connecting modeling to experiments, ideally starting late 2025 or early 2026.
 
