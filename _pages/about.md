@@ -29,7 +29,7 @@ For more information, visit my [portfolio](https://gautamankitkumar.github.io/po
 
 
 ## Selected Awards and Honors
-  * Awarded 1st place in oral talks in CHBEE GSAC Symposium 2025 by a panel of industry committee
+  * Awarded 1st place in oral talks in CHBE GSAC Symposium 2025 by a panel of industry committee
   * Granted Graduate College travel award to present my work at AIChE 2025 in Boston, MA
   * Jan 2024 - Joint 4th place at Young Scientist Symposium at the Catalysis Club of Chicago
   * Apr 2023 - Received Hanratty travel award to present research work in NAM 2023, Providence, RI
